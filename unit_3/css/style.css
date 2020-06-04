@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 img {
 	opacity: .4;
 	border-radius: 90%;
 }
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
 body {
 	margin: 0;
   font-family: freight-display-pro;
@@ -16,21 +11,10 @@ body {
 
 div background-image: {
 	position: relative;
-<<<<<<< HEAD
-<<<<<<< HEAD
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
     opacity: 0.35;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 50%;
-    display: block;
 }
 
 h1 {
@@ -38,13 +22,7 @@ h1 {
 	text-align: left;
 	margin-left: 17%;
 	margin-bottom: 0%;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	white-space: pre-wrap;
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
 }
 
 h2 {
@@ -73,22 +51,12 @@ h2 a:hover {
   }
 
 .container {
-<<<<<<< HEAD
-<<<<<<< HEAD
   position: absolute;
   margin: 10px;
-  
-=======
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
   overflow: scroll;
   position: absolute;
   margin: 20px;
   width: auto;
-<<<<<<< HEAD
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
-=======
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
 }
 
 .container a {
@@ -119,23 +87,12 @@ h2 a:hover {
 }
 .topnav ul {
 	margin: 0%;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	margin-left: 840px;
-=======
-	margin-left: 820px;
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
-=======
-	margin-left: 820px;
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
 	padding: 0%;
 	list-style: none;
 }
 
 .topnav	li {
-	display: inline-block;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	padding-right: 10px;
 }
 
@@ -145,14 +102,6 @@ h2 a:hover {
 	font-weight: 250;
 	margin: right: 300px;
 	padding-top: 10px;
-=======
-	margin: right: 300px;
-	padding-top: 23px;
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
-=======
-	margin: right: 300px;
-	padding-top: 23px;
->>>>>>> 41e6119b2b6bb32aafaac52da7b010a57e743c81
 	position: relative;
 	text-align: left;
 }
