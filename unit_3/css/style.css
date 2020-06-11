@@ -1,39 +1,38 @@
-
-img {
-	opacity: .4;
-	border-radius: 90%;
+nav	{
+	float: right;
 }
-body {
-	margin: 0;
-  font-family: freight-display-pro;
-  font-size: 36px;
-}
+nav a {
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
 
-div background-image: {
-	position: relative;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 0.35;
 }
-
+nav	a:hover {
+  background-color: transparent;
+  color: transparent;
+}
+li	{
+	display: inline-block;
+	margin: 10px;
+}
+.title {
+	margin: 22%;
+	font-size: 30px;	
+	line-height: .5em;
+}
 h1 {
 	text-decoration: none;
 	text-align: left;
-	margin-left: 17%;
-	margin-bottom: 0%;
-	white-space: pre-wrap;
 }
 
 h2 {
-	text-align: left;
 	font-size: 24px;
-	margin-left: 30%;
 	color: black;
 	transition: all;
 	border: 1px solid #000;
 	display: inline-block;
 	padding: 10px 40px;	
+
 }
 
 h2 a{
@@ -50,70 +49,32 @@ h2 a:hover {
   color: transparent;
   }
 
-.container {
-  position: absolute;
-  margin: 10px;
-  overflow: scroll;
-  position: absolute;
-  margin: 20px;
-  width: auto;
-}
+.profilepic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 8px;
+  margin-left: 18px;
 
-.container a {
-  float: right;
-  color: black;
-  text-align: left;
-  padding: 4px 10px;
-  text-decoration: none;
-  font-size: 22px;
-  font-weight: 100
 }
-
-.container a:hover {
-  background-color: transparent;
-  color: transparent;
-}
-
-.container a.active {
-  background-color: #ffffff;
-  color: black;
-}
-
-.logo {
-	float: left;
-}
-.topnav	{
-	float: left;
-}
-.topnav ul {
-	margin: 0%;
-	margin-left: 840px;
-	padding: 0%;
-	list-style: none;
-}
-
-.topnav	li {
-	padding-right: 10px;
-}
-
-.topnav a {
-	text-transform: uppercase;
-	font-size: 19px;
-	font-weight: 250;
-	margin: right: 300px;
-	padding-top: 10px;
-	position: relative;
-	text-align: left;
-}
-
-.topnav a {
-	color: black;
-	text-decoration: none;
-	text-transform: uppercase;
+.about {
+	text-align: center;
+	font-family: palatino, georgia, serif;
 	font-size: 18px;
-	text-align: left;
+	line-height: 1.5em;
+	margin: 22em;
+}
+.about h1 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: 100px;
 }
 
+
+.projects {
+	width: 150px;
+	height: 150px;
+}
 
 
 
